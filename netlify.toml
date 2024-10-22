@@ -14,12 +14,3 @@
 [build.environment]
   HUGO_VERSION = "0.136.4"
   DART_SASS_VERSION = "1.80.3"
-
-[[plugins]]
-  package = "netlify-plugin-cypress"
-
-  [plugins.inputs.postBuild]
-    enable = true
-
-  [plugins.inputs]
-    enable = false
