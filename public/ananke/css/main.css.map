@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/daniel.ng/local/crispy-chip/crispy-spoon",
+	"sourceRoot": "/Users/daniel.ng/Local/crispy-chip/crispy-spoon",
 	"sources": [
 		"ananke/css/main.css"
 	],
