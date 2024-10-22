@@ -1,6 +1,6 @@
 baseURL = 'https://palladiumred.netlify.app/'
 languageCode = 'en-us'
-title = 'Tech Palladin'
+title = 'Palladium'
 theme = 'ananke'
 
 
@@ -11,7 +11,7 @@ googleAnalytics = ""
 
 [params]
 text_color = ""
-author = "Tech Palladin"
+author = "Palladium"
 favicon = ""
 site_logo = "images/site-logo.webp"
 description = "The last theme you'll ever need. Maybe."
