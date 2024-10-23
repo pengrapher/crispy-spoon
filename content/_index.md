@@ -1,8 +1,8 @@
 ---
-title: "Digital Urban Living"
+title: "The  analog workbench"
 
-description: "Writing about design, learning, film, games, sound, and living."
+description: "Explore insights and reflections on design, learning to use a Mac, film, games, writing and sound."
 cascade:
   featured_image: '/images/rain.jpg'
 ---
-A collection of my thoughts from working and writing in tech, using Mac and Windows and urban living.
+A small collection of my experiences on creating content about tech.
