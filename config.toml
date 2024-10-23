@@ -11,7 +11,7 @@ googleAnalytics = ""
 
 [params]
 text_color = ""
-author = "Palladium"
+author = ""
 favicon = ""
 site_logo = "images/site-logo.webp"
 description = "The last theme you'll ever need. Maybe."
