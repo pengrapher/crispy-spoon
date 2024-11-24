@@ -3,7 +3,7 @@ date = '2024-10-20T14:27:32+08:00'
 draft = false
 featured_image= "/images/desk-setup.jpg"
 tags= ["sound","creative","sonos"]
-description = "A guide to pairing the Creative X4 DAC with Sonos Ray for Mac and Windows."
+description = "The Creative X4 DAC has a special feature that makes it fit for switching the Sonos Ray a dual  Mac and Windows environment."
 type = "post"
 title = 'Desktop audio: Switching between a Mac and Windows with the Sonos Ray soundbar'
 +++
