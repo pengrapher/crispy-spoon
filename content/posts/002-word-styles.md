@@ -22,3 +22,7 @@ CTRL+ALT+1
 
 -- Google Docs
 Select the Heading 1 style from the panel.
+
+
+== Use the Outline view
+
