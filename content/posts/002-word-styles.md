@@ -8,9 +8,9 @@ type = "post"
 title = '3 timesaver shortcuts to help you with longf documents for Word, Pages, or Google Docs'
 +++
 
-= Set yourself up for success. 
+Set yourself up for success. 
 
-== The 3 shortcuts you should do in the beginning of the project
+## The 3 shortcuts you should do in the beginning of the project
 
 For the first line of the document, apply a Heading 1 style. This is irrespective of the word processor you choose to use.
 
@@ -23,6 +23,5 @@ CTRL+ALT+1
 -- Google Docs
 Select the Heading 1 style from the panel.
 
-
-== Use the Outline view
+## Use the Outline view
 

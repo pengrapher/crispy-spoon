@@ -5,4 +5,4 @@ description: "Explore insights and reflections on design, learning to use a Mac,
 cascade:
   featured_image: '/images/rain.jpg'
 ---
-The articles.
+Recent articles
