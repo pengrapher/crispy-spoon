@@ -21,4 +21,4 @@ CTRL+ALT+1
 CTRL+ALT+1
 
 -- Google Docs
-Select the Heading 1 style from the panel
+Select the Heading 1 style from the panel.
