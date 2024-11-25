@@ -1,12 +1,13 @@
-+++
-date = '2024-10-20T14:27:32+08:00'
-draft = false
-featured_image= "/images/desk-setup.jpg"
-tags= ["sound","creative","sonos"]
-description = "The Creative X4 DAC has a special feature that makes it fit for switching the Sonos Ray a dual  Mac and Windows environment."
-type = "post"
-title = 'Desktop audio: Switching between a Mac and Windows with the Sonos Ray soundbar'
-+++
+---
+date: 2024-10-20T14:27:32+08:00
+draft: false
+featured_image: "/images/desk-setup.jpg"
+tags: ["sound","creative","sonos"]
+description: "The Creative X4 DAC has a special feature that makes it fit for switching the Sonos Ray a dual  Mac and Windows environment."
+type: "post"
+title: 'Desktop audio Switching between a Mac and Windows with the Sonos Ray soundbar'
+---
+
 I switch daily between a 2021 M1 MacBook Pro and a Windows 11 desktop. I prefer quality sound without relying solely on headphones. At first, I used a modest Dell monitor soundbar. But when I got a new monitor, I wanted something better. For a while, I tried separate Bluetooth speakers with my Mac, but then I decided to invest in the Sonos Ray.
 
 The Ray sounds great, but it has a major drawback: it only has one optical input and no HDMI, line-in, or USB-A connections. That made it tricky to connect to my Mac, so I needed a different solution.
