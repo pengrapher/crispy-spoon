@@ -5,7 +5,7 @@ featured_image: "/images/desk-setup.jpg"
 tags: ["sound","creative","sonos"]
 description: "The Creative X4 DAC has a special feature that makes it fit for switching the Sonos Ray a dual  Mac and Windows environment."
 type: "post"
-title: 'Desktop audio Switching between a Mac and Windows with the Sonos Ray soundbar'
+title: 'Desktop audio - Mac and Windows switching with the Sonos Ray soundbar'
 ---
 
 I switch daily between a 2021 M1 MacBook Pro and a Windows 11 desktop. I prefer quality sound without relying solely on headphones. At first, I used a modest Dell monitor soundbar. But when I got a new monitor, I wanted something better. For a while, I tried separate Bluetooth speakers with my Mac, but then I decided to invest in the Sonos Ray.

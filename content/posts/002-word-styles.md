@@ -9,9 +9,7 @@ title: 'Timesavers for long documents'
 canonicalUrl: https://palladium.netlify.app/timesaver-long-documents/
 ---
 
-Working with long documents in a word processor doesn't need to be difficult. 
-
-Navigation becomes much easier, which is one of the challenges of longer documents.
+Working with long documents in a word processor doesn't need to be difficult. Navigation becomes much easier, which is one of the challenges of longer documents. 
 
 This applies regardless if you are working in Microsoft Word, Apple Pages or Google Docs. 
 
